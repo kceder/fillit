@@ -11,7 +11,9 @@ second is 'B' and so on.
 Invalid files should be handeled correctly and no memory leaks can occur. 🚮
 
 Only allowed functions were: exit, open, close, write, read, malloc and free. 
-Other used functions are self made. 
+Other used functions are self made.
+
+Most of the puzzle solving is made with binary operators and bit shifts.
 
 Examples of valid input file and the correct output:
 
